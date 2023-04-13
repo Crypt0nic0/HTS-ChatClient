@@ -1,0 +1,15 @@
+/Users/ngdev/NGDEV/DotNet/ChatClient/bin/Debug/net7.0/ChatClient
+/Users/ngdev/NGDEV/DotNet/ChatClient/bin/Debug/net7.0/ChatClient.deps.json
+/Users/ngdev/NGDEV/DotNet/ChatClient/bin/Debug/net7.0/ChatClient.runtimeconfig.json
+/Users/ngdev/NGDEV/DotNet/ChatClient/bin/Debug/net7.0/ChatClient.dll
+/Users/ngdev/NGDEV/DotNet/ChatClient/bin/Debug/net7.0/ChatClient.pdb
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/ChatClient.csproj.AssemblyReference.cache
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/ChatClient.AssemblyInfoInputs.cache
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/ChatClient.AssemblyInfo.cs
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/ChatClient.dll
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/refint/ChatClient.dll
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/ChatClient.pdb
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/ChatClient.genruntimeconfig.cache
+/Users/ngdev/NGDEV/DotNet/ChatClient/obj/Debug/net7.0/ref/ChatClient.dll
